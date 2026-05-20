@@ -1,0 +1,3 @@
+[submodule "session-board"]
+	path = session-board
+	url = git@github.com:ankitsolanki-multidots/test-plugin-repo.git
